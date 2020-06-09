@@ -2,8 +2,8 @@
 ---------------------------------------------------------------*/
 
 .paymentmethod-large {
-    background-image: url('https://http2.mlstatic.com/secure/org-img/ui/payment-methods/1.8.1/uy/payment-methods-large.png');
-    background-size: 116px 506px; /* original x1 image size */
+    background-image: url('https://http2.mlstatic.com/secure/org-img/ui/payment-methods/1.8.2/uy/payment-methods-large.png');
+    background-size: 116px 527px; /* original x1 image size */
     height: 26px;
     margin: 5px;
 }
@@ -14,8 +14,8 @@
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), (min-resolution: 1.5dppx) {
 
 .paymentmethod-large {
-        background-image: url('https://http2.mlstatic.com/secure/org-img/ui/payment-methods/1.8.1/uy/payment-methods-large@2x.png');
-        background-size: 116px 486px; /* original x1 image size */
+    background-image: url('https://http2.mlstatic.com/secure/org-img/ui/payment-methods/1.8.2/uy/payment-methods-large@2x.png');
+        background-size: 116px 527px; /* original x1 image size */
         height: 26px;
         margin: 5px;
     }
@@ -67,4 +67,9 @@
 .paymentmethod-debvisa.paymentmethod-large {
     height: 30px;
     width: 94px;
+}
+
+.paymentmethod-creditel.paymentmethod-large {
+    height: 36px;
+    width: 83px;
 }
