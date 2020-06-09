@@ -41,6 +41,22 @@
 	background-position: 0 -589px; 
 }
 
+.paymentmethod-debvisa {
+	background-position: 0 -730px; 
+}
+
+.paymentmethod-debvisa.paymentmethod-large {
+	background-position: 0 -755px; 
+}
+
+.paymentmethod-debmaster {
+	background-position: 0 -756px; 
+}
+
+.paymentmethod-debmaster.paymentmethod-large {
+	background-position: 0 -805px; 
+}
+
 /* Narrow */
 
 .paymentmethod-efecty-narrow,

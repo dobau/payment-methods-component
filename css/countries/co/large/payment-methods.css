@@ -2,7 +2,7 @@
 ---------------------------------------------------------------*/
 
 .paymentmethod-large {
-    background-image: url('https://http2.mlstatic.com/secure/org-img/ui/payment-methods/1.8.1/co/payment-methods-large.png');
+    background-image: url('https://http2.mlstatic.com/secure/org-img/growth-online-payments/payment-methods/co/payment-methods-large.png');
     margin: 5px;
 }
 
@@ -12,8 +12,8 @@
 
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi), (min-resolution: 1.5dppx) {
     .paymentmethod-large {
-        background-image: url('https://http2.mlstatic.com/secure/org-img/ui/payment-methods/1.8.1/co/payment-methods-large@2x.png');
-        background-size: 116px 726px; /* original x1 image size */
+        background-image: url('https://http2.mlstatic.com/secure/org-img/growth-online-payments/payment-methods/co/payment-methods-large@2x.png');
+        background-size: 116px 838px; /* original x1 image size */
     }
 }
 
@@ -83,6 +83,16 @@
 .paymentmethod-baloto_472.paymentmethod-large {
     height: 37px;
     width: 33px;
+}
+
+.paymentmethod-debvisa.paymentmethod-large {
+    height: 28px;
+    width: 45px;
+}
+
+.paymentmethod-debmaster.paymentmethod-large {
+    height: 33px;
+    width: 36px;
 }
 
 /* Narrow */
